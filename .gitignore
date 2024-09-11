@@ -1,0 +1,21 @@
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos temporários
+*.tmp
+*.swp
+*.bak
+
+# Ignorar arquivos de configuração do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de banco de dados locais
+*.sql
+
+# Ignorar arquivos de ambiente
+.env
+
+# Ignorar pasta de dependências (se aplicável)
+node_modules/
+vendor/
